@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ivndp
-- 👀 I’m interested in gameing and crafting
+- 👀 I’m interested in gaming and crafting
 - 🌱 I’m currently learning coding in Python
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 How to reach me: greatchik@gmail.com
